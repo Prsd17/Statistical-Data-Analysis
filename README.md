@@ -8,4 +8,4 @@ A csv file, which include various data entries for each football match in Englis
 
 
 ### Programming Language
-* Python (Pandas, NumPy,Statsmodel, Matplotlib, Seaborn etc.)
+* Python (Pandas, NumPy, Statsmodel, Matplotlib, Seaborn etc.)
